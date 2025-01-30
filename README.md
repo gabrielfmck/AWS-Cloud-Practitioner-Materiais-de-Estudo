@@ -74,18 +74,6 @@
   </tr>
 </table>
 
-## Documentação Oficial e Guias da AWS
-
-<div class="documentation-section">
-  <ul>
-    <li><a href="https://aws.amazon.com/certification/faqs/"><b>FAQ sobre Certificação AWS</b></a> - Respostas para as dúvidas mais comuns</li>
-    <li><a href="https://www.pearsonvue.com/us/en/test-takers/resources.html#what-to-expect"><b>Guia do Candidato (Pearson Vue)</b></a> - Informações sobre o processo de exame</li>
-    <li><a href="https://www.pearsonvue.com/us/en/aws/onvue.html"><b>Opções de Exame Online</b></a> - Detalhes sobre exames remotos</li>
-    <li><a href="https://aws.amazon.com/certification/certification-prep/"><b>Página Oficial de Preparação</b></a> - Recursos oficiais da AWS</li>
-    <li><a href="https://aws.amazon.com/certification/benefits/"><b>Benefícios das Certificações</b></a> - Vantagens de ser certificado AWS</li>
-  </ul>
-</div>
-
 ## Perguntas e Dúvidas Comuns, Guias de Preparação para o Exame
 
 <div class="documentation-section">
