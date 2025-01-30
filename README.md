@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner (CLF-C02) - Materiais de Estudo
+# AWS Certified Cloud Practitioner (CLF-C02) - Materiais de Estudo (Mentoria EdN)
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
